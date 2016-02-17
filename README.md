@@ -1,4 +1,4 @@
 # pythonFun
-Testing a python environment through web portals etc
+Creating a Python environment that can be used with only a web browser and VERY limited internet access.
 
-HERE I AM!!!
+Woowee!
